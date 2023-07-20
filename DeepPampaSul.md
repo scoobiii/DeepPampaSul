@@ -1,11 +1,5 @@
-﻿Levantamento de Requisitos: PampaSul
+﻿Levantamento de Requisitos: DeepPampaSul
 
-
-Prezado Sr. Paulo Santos,
-
-Espero que esta mensagem o encontre bem. Gostaria de discutir e alinhar os requisitos do projeto DeepPampaSul. O projeto DeepPampaSul tem como objetivo melhorar a eficiência energética da usina termelétrica Pampa Sul por meio do uso de sistemas de aprendizado de máquina.
-
-Estou feliz em informar que o projeto DeepPampaSul está progredindo conforme o planejado. Nossa equipe de engenheiros e cientistas está trabalhando arduamente no desenvolvimento do sistema de aprendizado de máquina e estamos confiantes de que ele alcançará os objetivos do projeto.
 
 Objetivos:
 
